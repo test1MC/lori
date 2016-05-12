@@ -2,6 +2,9 @@
 <CatapultToc
   Version="1">
   <TocEntry
+    Title="[%=MyVariables.ProductA%] Article 2"
+    Link="/Content/Products/Product A/Article2.htm" />
+  <TocEntry
     Title="[%=MyVariables.ProductA%] Article 1"
     Link="/Content/Products/Product A/Article1.htm" />
   <TocEntry
@@ -15,9 +18,6 @@
     Link="/Content/Sample Topics/EditingMasterPage.htm" />
   <TocEntry
     Title="Product A">
-    <TocEntry
-      Title="[%=MyVariables.ProductA%] Article 2"
-      Link="/Content/Products/Product A/Article2.htm" />
     <TocEntry
       Title="[%=MyVariables.ProductA%] Article 3"
       Link="/Content/Products/Product A/Article3.htm" />
